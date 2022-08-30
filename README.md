@@ -1,1 +1,1 @@
-# educational_project
+# Папка с учебными проектами
